@@ -12,11 +12,11 @@ Download the script from the GitHub repository using wget or curl.
 Using wget:
 
 
-wget https://raw.githubusercontent.com/avocadodefi/Namada-Docker-Image-Auto-Installer/main/namada_setup.sh
+wget wget https://github.com/avocadodefi/namada-shielded-expedition-auto-installer/blob/main/auto_v0.1.sh
 Or, using curl:
 
 
-curl -O https://raw.githubusercontent.com/avocadodefi/Namada-Docker-Image-Auto-Installer/main/namada_setup.sh
+curl -O  https://github.com/avocadodefi/namada-shielded-expedition-auto-installer/blob/main/auto_v0.1.sh
 Step 3: Make the Script Executable
 Make the script executable before running it:
 
