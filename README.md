@@ -25,5 +25,5 @@ chmod +x auto_v0.1.sh
 Step 4: Run the Script
 Run the script with superuser privileges:
 
-sudo ./namada_setup.sh
+sudo ./auto_v0.1.sh
 Follow the on-screen instructions. The script will check if Docker is installed, install it if necessary, pull the specified Namada Docker image, and run it with the commands you specify.
