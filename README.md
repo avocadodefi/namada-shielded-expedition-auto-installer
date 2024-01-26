@@ -21,7 +21,7 @@ Step 3: Make the Script Executable
 Make the script executable before running it:
 
 
-chmod +x namada_setup.sh
+chmod +x auto_v0.1.sh
 Step 4: Run the Script
 Run the script with superuser privileges:
 
