@@ -12,18 +12,18 @@ Download the script from the GitHub repository using wget or curl.
 Using wget:
 
 
-wget wget https://github.com/avocadodefi/namada-shielded-expedition-auto-installer/blob/main/auto_v0.1.sh
+wget wget [https://github.com/avocadodefi/namada-shielded-expedition-auto-installer/blob/main/auto_v0.1.sh](https://github.com/avocadodefi/namada-shielded-expedition-auto-installer/blob/main/namada_auto_installer.sh)
 Or, using curl:
 
 
-curl -O  https://github.com/avocadodefi/namada-shielded-expedition-auto-installer/blob/main/auto_v0.1.sh
+curl -O  [https://github.com/avocadodefi/namada-shielded-expedition-auto-installer/blob/main/auto_v0.1.sh](https://github.com/avocadodefi/namada-shielded-expedition-auto-installer/blob/main/namada_auto_installer.sh)
 Step 3: Make the Script Executable
 Make the script executable before running it:
 
 
-chmod +x auto_v0.1.sh
+chmod +x namada_auto_installer.sh
 Step 4: Run the Script
 Run the script with superuser privileges:
 
-sudo ./auto_v0.1.sh
+sudo ./namada_auto_installer.sh
 Follow the on-screen instructions. The script will check if Docker is installed, install it if necessary, pull the specified Namada Docker image, and run it with the commands you specify.
